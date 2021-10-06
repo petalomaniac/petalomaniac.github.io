@@ -1,6 +1,6 @@
 {
-    "name": "flutter_web_test",
-    "short_name": "flutter_web_test",
+    "name": "flutter_pdf_document",
+    "short_name": "flutter_pdf_document",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
